@@ -1,7 +1,7 @@
 # Sign-Language-Recoginition-Using-TensorFlow-Keras
 
 
-# Sign-Language-Recognition-Using-Mediapipe
+
 
 
 ## Description how I do
